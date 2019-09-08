@@ -1,0 +1,6 @@
+# Memo
+projektna naloga za UVP
+
+Pri predmetu Uvod v programiranje, v prvem letniku študija finančne matematike sem izdelal preprosto igro Memo ali bolj znano kot Mastermind. Izdelana je v programeskem jeziku Python s pomočjo Visual Studio Coda. Vsebuje poleg te še 7 datotek in 1 mapo. Datoteki 'base.tpl' in 'igra_memo.tpl' sta namenjeni možnosti in enostavnemu izgledu spletne strani, medtem ko je 'index.tpl' namenjen zgolj stilistiki. 'model_memo.py' je datoteka, kjer se nahaja vecina metod s katerimi se igra upravlja. Spletna stran je zagnana s pomočje knjižnice bottle, ki se nahaja v datoteki 'bottle.py', glava kode pa se nahaja v 'memo.py' od kjer se poganjajo vsi ukazi. Dodana je tudi mapa 'img', ki vsebuje nekaj slik in gif-ov, namenjenih okrasitvi in popestritvi igre.
+
+Uporabla je dokaj enostavno. Na zelenem gumbu si downloadaš zip file, ga unzipaš, in odpres celotno mapo v Visual Studio Codu. Ko poženeš(runaš) datoteko 'memo.py' se ti spodaj pokaže link, katerega enostavno prekopiraš v brskalnik (ctrl + c za kopirat, ctrl + v za prilepit). Nato le še uživaš!
